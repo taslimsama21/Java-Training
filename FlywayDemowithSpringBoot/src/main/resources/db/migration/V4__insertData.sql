@@ -1,0 +1,2 @@
+INSERT INTO REGISTER_STUDENT(username, first_name, last_name,email,mobile) VALUES('taslim21','Taslim', 'Sama','taslimsama21@gmail.com','956481236');
+INSERT INTO REGISTER_STUDENT(username, first_name, last_name,email,mobile) VALUES('aman05', 'Aman', 'Sama','amansama05@gmail.com','9654781236');
